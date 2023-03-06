@@ -32,7 +32,7 @@ The security of your personal information is important to me, but remember that 
 
 This Privacy Policy is effective as of 3/6/2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on my app.
+I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me, or by placing a prominent notice on my app.
 
 
 ## Contact Information
