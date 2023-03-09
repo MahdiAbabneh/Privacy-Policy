@@ -1,5 +1,3 @@
-google-site-verification: google5d6801bc9025d3a5.html
-
 # Privacy Policy
 
 I take your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
