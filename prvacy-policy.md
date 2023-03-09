@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="G4xKYKs88Ccxxwwdd_5h9KVagQ-GppfXTW9Q1cE28uI" />
+
 # Privacy Policy
 
 I take your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
