@@ -1,1 +1,1 @@
-# note-privacy
+# privacy
